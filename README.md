@@ -30,7 +30,7 @@ ALII monitors and analyzes **ambient light conditions in real-time**, providing 
 
 Here are the actual setup and working system photos:
 
-![ALII Prototype 1](images/01.jpg)  
+<img src="images/01.jpg" alt="ALII Prototype 1" width="400"/>
 ![ALII Prototype 2](images/02.jpg)  
 
 > Make sure the image filenames match exactly what you uploaded to the `images/` folder.

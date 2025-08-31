@@ -57,8 +57,11 @@ Here are the actual setup and working system photos:
 
 ## 👥 Team Members
 
-- [Your Name]  
-- [Your Team Member(s)]  
+- [Arththikan S.]  
+- [Abisan S.]
+- [Alwela A.D.H.R]
+- [Andrahennadi P.U ]
+- [Anjana G.H.C ]
 
 ---
 
